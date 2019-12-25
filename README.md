@@ -1,3 +1,2 @@
 # CS5340
-Assignment codes
-Submitting assignment codes
+Uncertainty Modelling in AI
